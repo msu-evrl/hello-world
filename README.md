@@ -9,7 +9,7 @@ Some guided instructions for a simpler introduction to git are [Codecademy's lea
 ## Instructions
 1. Make a fork of this repository
 2. Create a simple program (in ANY language of your choice named hell-world-msuid e.g. hello-world-kenwa1.py)
-3. Send a pull request to the main repository.
+3. Send a pull request to the main repository to accept your change.
 
 ## Added Information
-You are allowed to modify this `README.md` file to provide more information on the project.
+You are allowed to modify this `README.md` file to provide more information on the project. Although the change must be accepted by the maintainer in order to be updated to the upstream (msu-evrl/hello-world) master.
