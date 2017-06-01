@@ -18,5 +18,5 @@ You are allowed to modify this `README.md` file to provide more information on t
 The name of the program file should be of the form:
 > `hello-world-msuid.extension`
 
-For languages that do not allow Filenames that include a hyphen should retain the convention of the language. For example in Java,
+For languages that do not allow filenames that include a hyphen should retain the convention of the language. For example in Java,
 > `HelloWorldMsuid.extension`
