@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to MSU EVRL hello-world. T
 
 The file name should be of the form hello-world-username.extension. So for example if my user name is knwachuk and I am using the Python Programming language, then my file should be named:
 
->`hello-world-knwachuk.py`.
+>`hello-world-knwachuk.py`
 
 #### Python Language 
 ```Python
