@@ -14,7 +14,7 @@ The file name should be of the form hello_world_username.extension. So for examp
 ```Python
 print("Hello World)
 ```
-This is because a language like Python does not require the name of the file and the functions to be the same.
+This is because a language like Python does not require the name of the file and the functions to be the same. And it has a quirk whereby the name of the file is the module import statement, and since the `hyphen -` (-) is a keyword in the Python programming language, `underscore _` are the preferred space delimiter in filenames.
 
 **However**, there are some languages (like Java) that requires the name of the class and the file to be the same. If that is the case, then stick with the convention of the language.
 
