@@ -8,7 +8,7 @@ Some guided instructions for a simpler introduction to git are [Codecademy's lea
 
 ## Instructions
 1. Make a fork of the [msu-evrl hello-world](https://github.com/msu-evrl/hello-world) repository.
-2. Create a simple `hello world` program (in ANY language of your choice) named `hello-world-msuid.extension` e.g. `hello-world-kenwa1.py`.
+2. Create a simple `hello world` program (in ANY language of your choice) named `hello_world_msuid.extension` e.g. `hello_world_kenwa1.py`.
 3. Send a pull request to the main repository to accept your change.
 
 ## Added Information
@@ -16,7 +16,7 @@ You are allowed to modify this `README.md` file to provide more information on t
 
 #### Program Filename
 The name of the program file should be of the form:
-> `hello-world-msuid.extension`
+> `hello_world_msuid.extension`
 
 For languages that do not allow filenames that include a hyphen should retain the convention of the language. For example in Java,
 > `HelloWorldMsuid.extension`
